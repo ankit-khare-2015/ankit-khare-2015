@@ -15,7 +15,7 @@ Based in **Hannover, Germany** 🇩🇪 | Open to collaboration & new opportunit
   - Building scalable **Data Mesh / Lakehouse architectures**
   - Real-time ingestion using **Kafka & Spark**
   - Operationalizing GenAI in enterprise with **RAG pipelines and MLOps**
--  How to reach me: **ankitkhare1983@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ankitkhare/)
+-  How to reach me: **ankit.khare.2015@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ankitkhare/)
 -  Fun fact: I’ve repeatedly optimized analytics data pipelines and reporting solutions in under three weeks, significantly improving team efficiency and driving higher user adoption.
   
 ---
