@@ -10,13 +10,12 @@ Based in **Hannover, Germany** 🇩🇪 | Open to collaboration & new opportunit
 -  I’m currently working on building end-to-end **RAG (Retrieval-Augmented Generation)** solutions using **Azure OpenAI, LangChain, and ChromaDB**, and creating content for optimizing power bi reporting solutions   
 -  I’m currently learning **LangGraph**, **LLMOps**, and **vector database optimization** for production AI systems.  
 -  I’m looking to collaborate on **data/AI platform modernization**, **streaming pipelines**, and **MLOps infrastructure** projects.  
--  I’m looking for help with advancing **Generative AI agent architectures** and **responsible AI governance** strategies.  
 - Ask me about:
   - Building scalable **Data Mesh / Lakehouse architectures**
   - Real-time ingestion using **Kafka & Spark**
   - Operationalizing GenAI in enterprise with **RAG pipelines and MLOps**
 -  How to reach me: **ankit.khare.2015@gmail.com** | [LinkedIn](https://www.linkedin.com/in/ankitkhare/)
--  Fun fact: I’ve repeatedly optimized analytics data pipelines and reporting solutions in under three weeks, significantly improving team efficiency and driving higher user adoption.
+-  I am humbled at: I’ve repeatedly optimized analytics data pipelines and reporting solutions in under three weeks, significantly improving team efficiency and driving higher user adoption.
   
 ---
 
@@ -46,7 +45,3 @@ Watch this space! I’m currently creating projects in the following areas:
   - Dairy Industry (e.g., milk quality prediction, supply chain AI)
 
 These projects will cover core concepts in data platforms, AI integration, and scalable data engineering.
-
----
-
-_Last updated: July 11, 2025_
